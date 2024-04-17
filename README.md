@@ -22,6 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=marcoaureliocardoso&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=marcoaureliocardoso&icon=0&color=1)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/marcoaureliocardoso/count.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
